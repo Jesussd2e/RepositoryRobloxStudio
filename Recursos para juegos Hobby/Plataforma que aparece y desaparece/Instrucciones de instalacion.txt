@@ -1,0 +1,6 @@
+Instrucciones de instalacion:
+1.- Crear un nuevo "Script" dentro de la part que cumplira esta función a esta part activar "Anchored" en propiedades.
+2.- Copiar el codigo que se encuentra dentro de "Script.lua" a el script creado anteriormente.
+3.- comprobar el funcionamiento.
+4.- Son todos los pasos cualquier duda o aclaracion: Discord: ⁵⁵⁵#2642
+5.- Abre las representaciones que se encuentran para entender mejor las Instrucciones.
