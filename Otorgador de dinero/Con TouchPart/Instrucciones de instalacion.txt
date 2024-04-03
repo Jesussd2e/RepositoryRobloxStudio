@@ -1,6 +1,0 @@
-Instrucciones de instalación:
-1.- Crear un nuevo "script" dentro del model o part donde al tocar te otorga cierta cantidad de dinero.
-(Demostracion en "imagenes de instructivo")
-2.- Copiar el codigo que se encuentra dentro de "scrip.lua" y pergarlo en el script creado
-4.- modifica las instrucciones que vienen dentro del codigo y listo.
-4.- Son todos los pasos cualquier duda o aclaracion: Discord: ⁵⁵⁵#2642
