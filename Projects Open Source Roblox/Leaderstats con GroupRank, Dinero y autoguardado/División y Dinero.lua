@@ -1,4 +1,5 @@
-----//// Scripting J3susgg21 ////----
+----//// Scripting 555 ////----
+----//// copia y pega el codigo en un scrip en ServerScrip ////---
 ----//// Leer las instrucciones ----////
 
 
